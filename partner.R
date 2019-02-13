@@ -1,1 +1,1 @@
-print("the script is scripting from inside your machine...")
+print("the script is coming from inside your machine...")
