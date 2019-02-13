@@ -1,1 +1,1 @@
-print("the script is coming from inside your machine...")
+print("Today is Wednesday, February 13, 2019")
