@@ -1,1 +1,1 @@
-print("the script is coming from inside your machine...")
+print("chance we are not writing the same message is significant")
